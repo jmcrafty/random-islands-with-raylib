@@ -4,7 +4,7 @@ Psuedo-random generation of landmass using perlin noise in [raylib](https://gith
 
 ## Description
 
-![screenshot.png](https://github.com/jmcrafty/random-islands-with-raylib/blob/main/screenshot.jpg?raw=true)
+![screenshot.png](https://github.com/jmcrafty/random-islands-with-raylib/blob/main/screenshot.png?raw=true)
 
 Code based on Playing with Perlin Noise: Generating Realistic Archipelagos by Yvan Scher on Medium.com
 https://medium.com/@yvanscher/playing-with-perlin-noise-generating-realistic-archipelagos-b59f004d8401
